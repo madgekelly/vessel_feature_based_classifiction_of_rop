@@ -21,11 +21,11 @@ structure adaptive segmentation and vessel based features. _Computerized Medical
 and Graphics_, 74, pp.72-94.
 
 2) Nisha, K.L., Sreelekha, G., Savithri, S.P., Mohanachandran, P. and Vinekar, A., 2017.
-Fusion of structure adaptive ltering and mathematical morphology for vessel segmentation
+Fusion of structure adaptive filtering and mathematical morphology for vessel segmentation
 in fundus images of infants with retinopathy of prematurity. _30th canadian
 conference on electrical and computer engineering_, Windsor. New York: IEEE, pp.1{6.
 
 3) Poletti, E., Grisan, E. and Ruggeri, A., 2012. Image-level tortuosity estimation in wide-
-eld retinal images from infants with retinopathy of prematurity. _2012 annual international
+field retinal images from infants with retinopathy of prematurity. _2012 annual international
 conference of the ieee engineering in medicine and biology society_, San Diego.
 New York: IEEE, pp.4958-4961.
